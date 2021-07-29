@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MicroWebsite/static/css/main.9cec2da3.chunk.css",
+    "main.js": "/MicroWebsite/static/js/main.e0186677.chunk.js",
+    "main.js.map": "/MicroWebsite/static/js/main.e0186677.chunk.js.map",
+    "runtime-main.js": "/MicroWebsite/static/js/runtime-main.8e941e19.js",
+    "runtime-main.js.map": "/MicroWebsite/static/js/runtime-main.8e941e19.js.map",
+    "static/js/2.e2cb78d0.chunk.js": "/MicroWebsite/static/js/2.e2cb78d0.chunk.js",
+    "static/js/2.e2cb78d0.chunk.js.map": "/MicroWebsite/static/js/2.e2cb78d0.chunk.js.map",
+    "static/js/3.d0eef414.chunk.js": "/MicroWebsite/static/js/3.d0eef414.chunk.js",
+    "static/js/3.d0eef414.chunk.js.map": "/MicroWebsite/static/js/3.d0eef414.chunk.js.map",
+    "index.html": "/MicroWebsite/index.html",
+    "static/css/main.9cec2da3.chunk.css.map": "/MicroWebsite/static/css/main.9cec2da3.chunk.css.map",
+    "static/js/2.e2cb78d0.chunk.js.LICENSE.txt": "/MicroWebsite/static/js/2.e2cb78d0.chunk.js.LICENSE.txt",
+    "static/media/backVideo.1ed35442.mp4": "/MicroWebsite/static/media/backVideo.1ed35442.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e941e19.js",
+    "static/js/2.e2cb78d0.chunk.js",
+    "static/css/main.9cec2da3.chunk.css",
+    "static/js/main.e0186677.chunk.js"
+  ]
+}
