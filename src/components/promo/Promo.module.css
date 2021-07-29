@@ -5,7 +5,7 @@
     align-items: center;
     position: absolute;
     width: 380px;
-    height: 721px;
+    height: 720px;
     top: -1px;
     background: #86D3F4;
 }
@@ -17,7 +17,6 @@
     top: 9.99%;
     bottom: 81.69%;
     width: 284px;
-    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
@@ -175,4 +174,30 @@
     text-transform: uppercase;
     background-color: black;
     color: white;
+}
+
+.SuccessTitle {
+    width: 284px;
+    height: 76px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 15px 0;
+}
+
+.SuccessDescription {
+    width: 284px;
+    height: 28px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
 }

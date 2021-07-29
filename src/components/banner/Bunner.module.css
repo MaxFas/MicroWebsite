@@ -52,9 +52,5 @@
     position: static;
     width: 156px;
     height: 52px;
-    left: 47.5px;
     background: #000000;
-    flex: none;
-    order: 4;
-    flex-grow: 0;
 }

@@ -6,7 +6,7 @@
 .container {
     position: absolute;
     width: 1280px;
-    height: 721px;
+    height: 720px;
 }
 
 .sidePanel {
@@ -63,5 +63,4 @@
     width: 110px;
     background-size: cover;
     background-position: center;
-
 }

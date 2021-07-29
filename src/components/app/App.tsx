@@ -1,4 +1,4 @@
-//@ts-ignore
+// @ts-ignore
 import backVideo from '../../commons/video/backVideo.mp4'
 import {Banner} from "../banner/Banner";
 import React, {useEffect, useState} from 'react';
@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className={styles.body}>
-      <video autoPlay loop muted={true} className={styles.container}>
+      <video autoPlay loop muted className={styles.container}>
         <source src={backVideo} type='video/mp4'/>
       </video>
       {viewBanner ? selectContent(pressOK) : ''}
@@ -49,7 +49,7 @@ function App() {
         </div>
           <div className={styles.smallBanner}>
               <div className={styles.bannerInfo}>Сканируйте QR-код ДЛЯ ПОЛУЧЕНИЯ ДОПОЛНИТЕЛЬНОЙ ИНФОРМАЦИИ</div>
-              <div className={styles.qrImg} style={qr}></div>
+              <div className={styles.qrImg} style={qr}/>
           </div>
       </div>}
     </div>
